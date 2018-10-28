@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinMediaPlayer</string>
+    <string name="title_activity_music_info">ssdds</string>
+    <string name="for_fast_notes">for fast notes</string>
+    <string name="list_of_songs">list_of_songs</string>
+    <string name="shuffle_songs">shuffle_songs</string>
+</resources>
